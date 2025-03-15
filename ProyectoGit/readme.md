@@ -1,38 +1,14 @@
-![Poncho](img/poncho.gif)
+# Curso Básico de Git 📝  
 
-# Poncho
+Este repositorio forma parte de la evaluación del curso de Git. En él practicamos el uso de ramas, fusiones y gestión de proyectos en equipo.
 
-Base de html y css para la creación de sitios pertenecientes a la Administración Pública Nacional de la República Argentina.
+## 📚 Recursos para aprender Git  
 
-En este repositorio podés descargar los archivos de Poncho para trabajar de manera local.
-Esta nueva versión de Poncho incluye cambios de colores y otros elementos que mejoran cuestiones de accesibilidad.
+Aquí hay dos herramientas útiles para aprender sobre ramas en Git:
 
-Para usar Poncho en un sitio, ver [la documentación](http://argob.github.io/poncho).  
-También estamos en [NPM](https://www.npmjs.com/package/ar-poncho).
+1. [Learn Git Branching](https://learngitbranching.js.org/) - Herramienta interactiva para visualizar y practicar ramas en Git.
+2. [Git Book](https://git-scm.com/book/es/v2) - Guía completa sobre Git en español.
 
-## ¿Cómo instalar Poncho?
 
-#### Si usás NPM
-
-* Ejecutá en la consola el comando **npm i ar-poncho**
-
-#### Si descargás los archivos manualmente
-
-* También podés [descargar las plantillas de Poncho](http://argob.github.io/poncho/plantillas/paginas-de-argentina/) o crear archivos html nuevos, asegurándote de que en los html estén declaradas estas dependencias:
-  
-#### Fuente Tipográfica - Encode
-
-* ``` <link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900&amp;display=swap" media="all" /> ```
-
-#### CSS - Bootstrap (v-3.4.1), Font Awesome (v-4.7.0), Poncho, Iconos
-
-* ``` <link href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css"  rel="stylesheet"> ```
-* ``` <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"> ```
-* ``` <link rel="stylesheet" href="dist/css/poncho.min.css"> ```
-* ``` <link rel="stylesheet" href="dist/css/icono-arg.css"> ```
-
-#### JavaScript -  Jquery, Bootstrap (v-3.4.1)
-
-* ``` <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script> ```
-* ``` <script src="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js”></script> ```
-
+## Entrega Final del curso
+Si bien me retrase 2 dias espero poder entregar a tiempo! Desde  ya gracias!
