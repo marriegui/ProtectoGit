@@ -59,3 +59,10 @@ git commit -m "Agrego cheatsheet"
 ```bash
 git push -u origin test
 ```
+
+## Agrego comandos
+```bash
+git add comandos_git.md 
+git commit -m " Subo lsita de comandos"
+git push -u origin test
+```
